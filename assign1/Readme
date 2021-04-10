@@ -1,0 +1,22 @@
+The storage manager deals with pages (blocks) of fixed size (PAGE_SIZE).
+In addition to reading and writing pages from a file,
+it provides methods for creating, opening, and closing files.
+
+At first, create a new page file with a input fileName.
+    for malloc(), need free().
+    for fwrite(), need fclose() in Create, or it will re-open in the next time.
+
+Then, open the page file with fileName and fileHandle.
+    use fileStat to determine the file size.
+    fseek+ftell can do the same thing, but it has some vulnerabilities for the binary stream.
+
+For close and destory Page.
+    need to update the info of fileHandle.
+    Note: before destory a file, it's better to close the file.
+          Or it may cause the failure of remove in Windows.
+
+ For read:
+    take notice of the page position.
+
+ For write:
+    when pageNum is more than total num , it will append empty block and do it one by one.

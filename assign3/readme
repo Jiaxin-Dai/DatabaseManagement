@@ -1,0 +1,94 @@
+Jiaxin Dai
+Jiangsong Wang
+sihan Yang
+
+This project is aiming to create a record manager, which is based on AS1 and AS2. We generated a buffer pool, with the combination of a page file and page frames storing pages.  
+
+The record manager handles tables with a fixed schema. 
+
+
+## **Included Files**:
+	README
+	buffer_mgr_stat.c
+	buffer_mgr_stat.h
+	buffer_mgr.c
+	buffer_mgr.h
+	dberror.c
+	dberror.h 
+	dt.h
+	tables.h
+	expr.h
+	expr.c
+	rm_serializer.c
+	record_mgr.h
+	record_mgr.c
+	makefile
+	storage_mgr.c
+	storage_mgr.h
+	test_assign3_1.c
+	test_expr.c
+	test_helper.h
+
+
+
+Build （type in terminal）
+1:  cd the address of assign3;
+
+2: make
+
+3: ./test_assign3_1
+
+4: ./test_expr
+
+5: make clean
+
+
+
+Function Description
+initRecordManager():  Initialize
+
+shutdownRecordManager(): Shut down a Record Manager, set all global variables to NULL
+
+createTable():Create the underlying page file and store information about the schema, free-space, ... in the Table Information pages
+
+openTable():Open the table
+
+closeTable():Close the table
+
+deleteTable():Delete the table
+
+getNumTuples():Return the number of tuples (records) in the table and store it in the recordManager
+
+insertRecord():Insert a new record into table and set the free page for current in use and then pin it
+
+deleteRecord():Delete record from table, delete the record, mark page dirty
+
+updateRecord():Update record in table with new value
+
+getRecord():Retrieve record from certain table with given RID
+
+startScan():Start a scan and allocate memory to scan manager
+
+next():scans each record in the table and stores the result record (if satisfied the condition)
+
+closeScan():Free all schema and close scan manager
+
+getRecordSize():Return the record size of the schema
+
+createSchema():Create a new schema in memory
+
+freeSchema():Remove the schema from the memory and reset all attributes
+
+createRecord():Create a new record on schema and allocate memory space for the new record.
+
+freeRecord():Free record and memory
+
+getAttr():Get attribute from record into the schema
+
+setAttr():Set attribute from schema into record
+
+
+
+
+
+

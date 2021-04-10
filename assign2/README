@@ -1,0 +1,69 @@
+Group_12: this file is for CS525 Assignemt2 which ask us  implement a buffer manager.
+-------------------
+running the program
+-------------------
+
+make or cmake . two build systems both works
+1. open the termianl and get in the correct file path
+2. "gcc"compile all files and test_assign2_1
+3. "make"run test case
+4. check the result.
+-------------------------------
+Included Files
+-------------------------------
+CMakeLists.txt
+buffer_mgr.c
+buffer_mgr.h
+buffer_mgr_stat.c
+buffer_mgr_stat.h
+dberror.c
+dberror.h
+dt.h
+storage_mgr.c
+storage_mgr.h
+test_assign2_1.c
+test_helper.h
+
+Idea Description
+------------------------------------------------
+LRU: replace the page which is least recently used at the time the new page comes in
+-----------------------------------------------
+------------------------------------------------
+Function Description
+------------------------------------------------
+here is a list of functions with description:
+initBufferPool(): create a new buffer pool in memory for an existing page file. NumPages defines the size of the buffer and pageFileName stores the pages cached in memory.
+                strategy is the page replacement strategy.
+
+shutdownBufferPool():  Shut down the buffer pool. Free all memory used by the buffer manager. Return error if any page is being used by the client.
+
+forceFlushPool():  write all the dirty pages to the disk. check all the page frames in the buffer pool.
+               
+pinPage: read the page from disk and store it in the buffer pool
+unpinPage():  Unpin pages
+
+makeDirty: mark the modification status of the page as modified.
+           check the pages in the buffer pool to see if its dirty == 1.
+
+forcePage(): write the content of the page to the page file on disk.
+
+getFrameContents(): return an array of pageNumber.
+
+getDirtyFlags(): return an array of boolean value about the status of the dirty of the page frames.
+
+getFixCounts(): return an array of int values about fix number of the page frames.
+
+getNumReadIO(): return the number of times of reading IO.
+
+getNumWriteIO(): return the number of times of writing IO.
+
+hasCached(): Return page frame index if it has been cached
+
+
+4. page replacement strategy(if the buffer pool is full)
+FIFO: replace the page which is put into the buffer pool at the first place.
+
+----------
+## test cases
+----------
+test_assign2_1

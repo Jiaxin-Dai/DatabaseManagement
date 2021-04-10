@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="assign4" targetName="test_assign4_1" />
+      <config projectName="assign4" targetName="test_expr" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83cb851c-7349-4b1b-8cdd-b665b9dd1097" name="Default Changelist" comment="." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ky5dexCz9EN9NqCwWAjUNmZnJR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="dynamic.analysis.tools.valgrind" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.test_assign4_1">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_assign4_1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="assign4" TARGET_NAME="test_assign4_1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="assign4" RUN_TARGET_NAME="test_assign4_1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_expr" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="assign4" TARGET_NAME="test_expr" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="assign4" RUN_TARGET_NAME="test_expr">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.test_assign4_1" />
+      <item itemvalue="CMake Application.test_expr" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83cb851c-7349-4b1b-8cdd-b665b9dd1097" name="Default Changelist" comment="" />
+      <created>1606660079682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606660079682</updated>
+      <workItem from="1606660080773" duration="520000" />
+      <workItem from="1606691915454" duration="18935000" />
+      <workItem from="1606797301825" duration="229000" />
+    </task>
+    <task id="LOCAL-00001" summary="bug fix">
+      <created>1606693010937</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606693010937</updated>
+    </task>
+    <task id="LOCAL-00002" summary=".">
+      <created>1606725793136</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606725793136</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="bug fix" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606754221056">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1606754221056" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1606753124985">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.23.1440.797@0.23.1440.797" timestamp="1606753124985" />
+    <state width="1398" height="242" key="GridCell.Tab.0.bottom" timestamp="1606754371455">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="242" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606754371455" />
+    <state width="2518" height="328" key="GridCell.Tab.0.bottom/0.0.1680.1050/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1606737001743" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1606711335314" />
+    <state width="2518" height="328" key="GridCell.Tab.0.bottom/0.23.1680.1027/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1606731102198" />
+    <state width="1398" height="242" key="GridCell.Tab.0.center" timestamp="1606754371454">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="242" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606754371454" />
+    <state width="2518" height="328" key="GridCell.Tab.0.center/0.0.1680.1050/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1606737001741" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1606711335314" />
+    <state width="2518" height="328" key="GridCell.Tab.0.center/0.23.1680.1027/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1606731102197" />
+    <state width="1398" height="242" key="GridCell.Tab.0.left" timestamp="1606754371454">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="242" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606754371454" />
+    <state width="2518" height="328" key="GridCell.Tab.0.left/0.0.1680.1050/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1606737001741" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1606711335313" />
+    <state width="2518" height="328" key="GridCell.Tab.0.left/0.23.1680.1027/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1606731102197" />
+    <state width="1398" height="242" key="GridCell.Tab.0.right" timestamp="1606754371454">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="242" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606754371454" />
+    <state width="2518" height="328" key="GridCell.Tab.0.right/0.0.1680.1050/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1606737001742" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1606711335314" />
+    <state width="2518" height="328" key="GridCell.Tab.0.right/0.23.1680.1027/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1606731102198" />
+    <state width="1398" height="242" key="GridCell.Tab.1.bottom" timestamp="1606754371457">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="242" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606754371457" />
+    <state width="2518" height="328" key="GridCell.Tab.1.bottom/0.0.1680.1050/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1606737002307" />
+    <state width="2518" height="328" key="GridCell.Tab.1.bottom/0.23.1680.1027/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1606731102200" />
+    <state width="1398" height="242" key="GridCell.Tab.1.center" timestamp="1606754371456">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="242" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1606754371456" />
+    <state width="2518" height="328" key="GridCell.Tab.1.center/0.0.1680.1050/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1606737002305" />
+    <state width="2518" height="328" key="GridCell.Tab.1.center/0.23.1680.1027/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1606731102199" />
+    <state width="1398" height="242" key="GridCell.Tab.1.left" timestamp="1606754371456">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="242" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1606754371456" />
+    <state width="2518" height="328" key="GridCell.Tab.1.left/0.0.1680.1050/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1606737002305" />
+    <state width="2518" height="328" key="GridCell.Tab.1.left/0.23.1680.1027/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1606731102199" />
+    <state width="1398" height="242" key="GridCell.Tab.1.right" timestamp="1606754371457">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="242" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1606754371457" />
+    <state width="2518" height="328" key="GridCell.Tab.1.right/0.0.1680.1050/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1606737002306" />
+    <state width="2518" height="328" key="GridCell.Tab.1.right/0.23.1680.1027/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1606731102200" />
+    <state x="299" y="178" key="SettingsEditor" timestamp="1606754272684">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="299" y="178" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1606754272684" />
+    <state x="-1771" y="359" key="SettingsEditor/0.0.1680.1050/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1606712429852" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1606754341308">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1606754341308" />
+    <state x="-1991" y="304" key="Vcs.Push.Dialog.v2/0.23.1680.1027/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1606725813313" />
+    <state x="518" y="360" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606797311957">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="518" y="360" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1606797311957" />
+    <state x="-1639" y="576" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1606736612065" />
+    <state x="518" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.797@0.23.1440.797" timestamp="1606709855416" />
+    <state x="-1639" y="576" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.1027/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1606731112237" />
+    <state width="1369" height="428" key="javadoc.popup" timestamp="1606730611936">
+      <screen x="-2560" y="0" width="2560" height="1440" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/0.0.1680.1050/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1606724564832" />
+    <state width="1369" height="428" key="javadoc.popup/0.23.1680.1027/-2560.0.2560.1440@-2560.0.2560.1440" timestamp="1606730611936" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/test_assign4_1.c</url>
+          <line>33</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/test_assign4_1.c</url>
+          <line>128</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
